@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Seda Koldas, my username is @sskoldas
+- 👋 Hi, I’m Seda Koldas, a fresh PhD candidate in Bioinformatics
 - 👀 I’m interested in machine learning applications in life science
 - 🌱 I’m currently learning how AI can teach me anything
 - 💞️ I’m looking to collaborate on predicting the relation of complex diseases to the microbiome using machine learning algorithms.
