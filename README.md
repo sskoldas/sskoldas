@@ -1,7 +1,5 @@
 👋 Hi! I'm Seda Koldas, a super excited PhD candidate diving headfirst into the awesome world of Bioinformatics! 🎉 
 
-I'm absolutely fascinated by how machine learning can revolutionize life science. 
-
 Right now, I'm buzzing with the idea of using AI to uncover how microbiome and complex diseases are connected! 🤩 
 
 Let's connect! ✉️ sskoldas@gmail.com
