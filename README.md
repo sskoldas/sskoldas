@@ -2,7 +2,8 @@
 
 Right now, I'm buzzing with the idea of using AI to uncover how microbiome and complex diseases are connected! 🤩 
 
-🧠 Academic Background:
+Academic Background:
+
 📘 PhD – Bioinformatics and Statistics
 
 🎓 MSc – Clinical Microbiology
